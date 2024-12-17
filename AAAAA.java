@@ -1,5 +1,5 @@
 
-public class AAAAA {
+class AAAAA {
     public static void main() {
         //declare i
         int i = 7;
