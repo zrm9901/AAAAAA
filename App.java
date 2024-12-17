@@ -104,7 +104,7 @@ public class App extends JFrame implements ActionListener {
     }   
 
 
-    public static void main() {
+    public static void main(String[] args) {
         new App();
     }
 }
